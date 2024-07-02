@@ -33,7 +33,7 @@ conda env create -f environment.yml
 
 Now activate the `fel2024` environment:
 ```bash
-conda activate fel204
+conda activate fel2024
 ```
 and test that Jupyter lab works:
 ```
