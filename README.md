@@ -9,7 +9,13 @@ The software for the class will run natively on Linux and macOS. Windows users w
 
 ## Install Miniforge
 
-Download and install Minforge using the instructions at: https://github.com/conda-forge/miniforge?tab=readme-ov-file#download. Initialize on the command line with:
+Download and install Minforge using the instructions at: https://github.com/conda-forge/miniforge?tab=readme-ov-file#download. Note that:
+- If you have a Mac with an M1, M2, or M3 processor, use the "Apple Silicon" link. For older MacBooks, use the x86-64 version. If unsure, click the Apple at the top left of your screen, "About this Mac" and look at the "Chip" line.
+- For Windows on WSL2, choose the Linux x86-64 version (**not** the Windows build!).
+
+Once installd, initialize conda on the command line with:
+
+
 
 ```bash
 conda init
