@@ -3,7 +3,7 @@ name: fel2024
 channels:
   - conda-forge
 dependencies:
-  - python>=3.9
+  - python=3.12
   - bmad
   - pytao
   - genesis4 >=4.6.6=mpi_openmpi*
