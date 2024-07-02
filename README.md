@@ -13,7 +13,7 @@ Download and install Minforge using the instructions at: https://github.com/cond
 - If you have a Mac with an M1, M2, or M3 processor, use the "Apple Silicon" link. For older MacBooks, use the x86-64 version. If unsure, click the Apple at the top left of your screen, "About this Mac" and look at the "Chip" line.
 - For Windows on WSL2, choose the Linux x86-64 version (**not** the Windows build!).
 
-Once installd, initialize conda on the command line with:
+Once installed, initialize conda on the command line with:
 ```bash
 conda init
 ```
@@ -26,7 +26,7 @@ Note that this repository will be updated periodically during the class.
 
 ## Create the `fel2024` environment
 
-This repository contains a file `environment.yml`. Change directories to this repository and nstall on the command line:
+This repository contains a file `environment.yml`. Change directories to this repository and install on the command line:
 ```bash
 conda env create -f environment.yml
 ```

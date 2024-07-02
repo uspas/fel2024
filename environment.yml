@@ -8,7 +8,9 @@ dependencies:
   - pytao
   - genesis4 >=4.6.6=mpi_openmpi*
   - lume-genesis
-  - jupyterlab
   - pytest
   - zfel
+  - jupyterlab>=3
+  - jupyterlab-lsp
+  - python-lsp-server
 
