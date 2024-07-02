@@ -14,12 +14,10 @@ Download and install Minforge using the instructions at: https://github.com/cond
 - For Windows on WSL2, choose the Linux x86-64 version (**not** the Windows build!).
 
 Once installd, initialize conda on the command line with:
-
-
-
 ```bash
 conda init
 ```
+and restart the terminal.
 
 ## Clone this repository
 The class will use this respository for all data. Please clone this repository using [GitHub Desktop](https://github.com/apps/desktop) or using `git` on the command line. 
@@ -28,7 +26,7 @@ Note that this repository will be updated periodically during the class.
 
 ## Create the `fel2024` environment
 
-This repository contains a file `environmentl.yml`. Install on the command line:
+This repository contains a file `environmentl.yml`. Change directories to this repository and nstall on the command line:
 ```bash
 conda env create -f environment.yml
 ```
