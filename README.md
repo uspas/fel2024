@@ -26,7 +26,7 @@ Note that this repository will be updated periodically during the class.
 
 ## Create the `fel2024` environment
 
-This repository contains a file `environmentl.yml`. Change directories to this repository and nstall on the command line:
+This repository contains a file `environment.yml`. Change directories to this repository and nstall on the command line:
 ```bash
 conda env create -f environment.yml
 ```
