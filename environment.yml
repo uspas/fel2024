@@ -1,0 +1,14 @@
+# conda env create -f environment.yml
+name: fel2024
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.9
+  - bmad
+  - pytao
+  - genesis4 >=4.6.6=mpi_openmpi*
+  - lume-genesis
+  - jupyterlab
+  - pytest
+  - zfel
+
