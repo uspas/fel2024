@@ -42,7 +42,7 @@ jupyter lab
 
 
 ## Download Genesis4 examples 
-Download LUME-Genesis' Genesis4 examples: [lume_genesis_genesis4_examples](https://github.com/slaclab/lume-genesis/releases/download/v1.0.0/lume_genesis_genesis4_examples_v1.0.0.zip).
+Download LUME-Genesis' Genesis4 examples: [lume_genesis_genesis4_examples](https://github.com/slaclab/lume-genesis/releases/download/v1.1.0/lume_genesis_genesis4_examples.zip).
 
 Try these using Jupyter lab in the `fel2024` environment.
 
