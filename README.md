@@ -1,5 +1,5 @@
 # USPAS FEL 2024 Class
-Repository for solutions and work in progress changes to the lab portion of VUV and X-ray Free Electron Lasers course (summer 2024).
+Repository for the lab portion of VUV and X-ray Free Electron Lasers course (summer 2024).
 
 
 # Installation 
