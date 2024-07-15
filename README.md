@@ -48,3 +48,13 @@ Try these using Jupyter lab in the `fel2024` environment.
 
 The Genesis4 manual can also be found at the following repo: [https://github.com/svenreiche/Genesis-1.3-Version4](https://github.com/svenreiche/Genesis-1.3-Version4)
 
+
+## Group assignemnts: 
+| Group      | Members |
+| ----------- | ----------- |
+| 1   | Alex B., Gerrit B., Claire H.  |
+| 2   | Martin K., An L., Kaela V.     |
+| 3   | Leon F., Krishna M., Aditya W. |
+| 4   | Aditya T., Emmanuel A., Irene W. |
+| 5   | Muhammed Z., Janardan U. |
+
