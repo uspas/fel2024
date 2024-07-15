@@ -49,7 +49,7 @@ Try these using Jupyter lab in the `fel2024` environment.
 The Genesis4 manual can also be found at the following repo: [https://github.com/svenreiche/Genesis-1.3-Version4](https://github.com/svenreiche/Genesis-1.3-Version4)
 
 
-## Group assignemnts: 
+## Group assignments: 
 | Group      | Members |
 | ----------- | ----------- |
 | 1   | Alex B., Gerrit B., Claire H.  |
