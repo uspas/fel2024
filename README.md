@@ -46,3 +46,5 @@ Download LUME-Genesis' Genesis4 examples: [lume_genesis_genesis4_examples](https
 
 Try these using Jupyter lab in the `fel2024` environment.
 
+The Genesis4 manual can also be found at the following repo: [https://github.com/svenreiche/Genesis-1.3-Version4](https://github.com/svenreiche/Genesis-1.3-Version4)
+
