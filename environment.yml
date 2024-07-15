@@ -13,4 +13,4 @@ dependencies:
   - jupyterlab>=3
   - jupyterlab-lsp
   - python-lsp-server
-
+  - ffmpeg
