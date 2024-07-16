@@ -12,5 +12,6 @@ dependencies:
   - zfel
   - jupyterlab>=3
   - jupyterlab-lsp
-  - python-lsp-server
+#  - python-lsp-server
   - ffmpeg
+  - ipywidgets
